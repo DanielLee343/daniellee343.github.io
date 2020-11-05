@@ -1,16 +1,15 @@
 <div style="text-align: center">
     <img src="myphoto.jpeg" alt="myphoto" style="zoom:30%;" />
     <div style="margin-left:10px">
-        <div style="color: blue; margin-top:10px; font-size:20px">Concact</div>
-        <div style="color: blue">No. 59 Jinye Yilu, Xi’an, China</div>
+        <div style="color: white; margin-top:10px; font-size:20px">Concact</div>
+        <div style="color: white">No. 59 Jinye Yilu, Xi’an, China</div>
         <div>
             <a href="mailto:yuzeli@xjtu.edu.cn">yuzeli@xjtu.edu.cn</a>
-            </br>
+            <br/>
             <span>+86-13319294103</span>
         </div>
     </div>
 </div>
-
 
 ## Bio
 
@@ -29,13 +28,13 @@ I am looking for PhD program opportunities starting 2021 fall. Feel free to reac
   <img src="jiaoyu.png" alt="edu" style="zoom:10%;" />
   B.E. in Software Engineering, 2020
 </div>
-<span style="margin-left:28px"><font color=#7C7C7C size=3 face="黑体">Northeastern University, China</font></span>
+<span style="margin-left:28px ; color:#7C7C7C; size:3 ">Northeastern University, China</span>
 
 <div style="float:left">
   <img src="jiaoyu.png" alt="edu" style="zoom:10%;" />
   Exchange Study in Computer Science, 2018
 </div>
-<span style="margin-left:28px"><font color=#7C7C7C size=3 face="黑体">Boston University</font></span>
+<span style="margin-left:28px ; color:#7C7C7C; size:3 ">Boston University</span>
 
 ### Publication
 
