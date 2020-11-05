@@ -1,21 +1,18 @@
-<div class="row">
-  
-
 <div style="text-align: center">
-   <img src="myphoto.jpeg" alt="myphoto" style="zoom:30%;" />
-   <div style="margin-left:10px">
-     <div style="color: blue; margin-top:10px; font-size:20px">Concact</div>
-     <div style="color: blue">No. 59 Jinye Yilu, Xi’an, China</div>
-     <div>
-       <a href="mailto:yuzeli@xjtu.edu.cn">yuzeli@xjtu.edu.cn</a>
-       </br>
-       <span>+86-13319294103</span>
-     </div>
-   </div>
+    <img src="myphoto.jpeg" alt="myphoto" style="zoom:30%;" />
+    <div style="margin-left:10px">
+        <div style="color: blue; margin-top:10px; font-size:20px">Concact</div>
+        <div style="color: blue">No. 59 Jinye Yilu, Xi’an, China</div>
+        <div>
+            <a href="mailto:yuzeli@xjtu.edu.cn">yuzeli@xjtu.edu.cn</a>
+            </br>
+            <span>+86-13319294103</span>
+        </div>
+    </div>
 </div>
 
 
-##Bio
+## Bio
 
 My current research involves data processing and algorithm modification in graphs. Specifically, given a large graph and attributes for each node, how to obtain the Personalized Pagerank (PPR) fast and precisely is the primary focus. Consequently, data compression such as compressed sparse row (CSR) and efficiently dividing a graph into multiple layers to speed up the process are under research. Identically, I am also interested in High Performance Computing (HPC) and distributed system that any system manages to fully utilize hardware resources.
 
