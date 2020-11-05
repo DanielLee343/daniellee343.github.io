@@ -15,7 +15,7 @@
 </div>
 
 
-## Bio
+##Bio
 
 My current research involves data processing and algorithm modification in graphs. Specifically, given a large graph and attributes for each node, how to obtain the Personalized Pagerank (PPR) fast and precisely is the primary focus. Consequently, data compression such as compressed sparse row (CSR) and efficiently dividing a graph into multiple layers to speed up the process are under research. Identically, I am also interested in High Performance Computing (HPC) and distributed system that any system manages to fully utilize hardware resources.
 
