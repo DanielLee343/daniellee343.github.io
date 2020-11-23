@@ -20,7 +20,7 @@ I am looking for PhD program opportunities starting 2021 fall. Feel free to reac
 ## Interests
 
 - High Performance Computing
-- Algorithms in Graph
+- Parallel Computing
 - Software Engineering
 
 ## Education
